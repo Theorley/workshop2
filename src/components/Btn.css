@@ -1,0 +1,32 @@
+.cart-button {
+  position: fixed;
+  top: 7px;
+  right: 100px;
+  display: flex;
+  padding: 10px;
+  justify-content: flex-start;
+  background-color: rgb(110, 51, 29);
+  border-radius: 50px;
+  width: 150px;
+  border: transparent;
+  cursor: pointer;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+  gap: 10px;
+  height: 35px;
+}
+.quantity {
+  position: fixed;
+  top: 15px;
+  right: 120px;
+  font-size: 14px;
+  background: rgb(171, 57, 16);
+  border-radius: 10px;
+  width: 35px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
