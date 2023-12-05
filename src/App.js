@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-
+import { useState } from 'react';
+import Dialog from './Components/Dialog/Dialog';
 function App() {
   return (
     <div className="App">
