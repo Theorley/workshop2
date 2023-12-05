@@ -1,0 +1,52 @@
+/* Container for the item */
+.item-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #CDCDCD;
+  }
+  
+  /* Style for the item name */
+  .item-name {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  /* Style for the item description */
+  .item-description {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  /* Style for the item price */
+  .item-price {
+    font-size: 16px;
+    color: orange;
+    margin-top: 5px;
+  }
+  
+  /* Style for the amount and button */
+  .amount-container {
+    margin-left: auto;
+    display: flex;
+    align-items: left;
+  }
+  
+  /* Style for the increment button */
+  .increment-button {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    margin-left: 10px;
+    align-items: right;
+  }
+  
+  /* Hover effect for the button */
+  .increment-button:hover {
+    background-color: darkorange;
+  }
+  .amount{
+    box-sizing: 50px;
+  }
