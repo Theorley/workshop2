@@ -1,5 +1,5 @@
-import NavBar from "./components/NavBar";
-import "./App.css";
+import logo from './logo.svg';
+import './App.css';
 import Cart from "./components/Cart";
 import { useContext, useState } from "react";
 import dataContext from "./data-context";
