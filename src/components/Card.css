@@ -4,11 +4,17 @@
 
 
 div[class*="rounded"] {
+
+    padding:20px;
     background: #575154;
-}
+    text-align: center;
+    margin-left: 200px;
+    
+    }
 
 .heavy-rounded {
     border-radius: 8px;
+
 }
 
 p{

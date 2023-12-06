@@ -1,6 +1,5 @@
 .App {
   width: fit-content;
-  display: flex;
   flex-direction: row;
   border: 5px;
   border-radius: 8px;
